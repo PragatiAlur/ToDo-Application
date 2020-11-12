@@ -1,0 +1,57 @@
+body{
+    background-color: bisque;
+}
+li{
+    list-style: none;
+}
+
+
+#mainBox{
+    background-color: rgb(248, 211, 165);
+    width: 100%;
+    height: 460px;
+}
+input{
+    width: 80%;
+    height: 100%;
+    border-radius: 7px;
+    background-color: rgb(209, 196, 174);
+    font-size: 15px;
+    margin-left: 5%;
+}
+#list{
+        width: 10%;
+        height: 5%;
+        border-radius: 7px;
+        background-color: rgb(214, 168, 89);
+        font-size: 20px;
+        text-align: center; 
+        margin-left: 6%;
+}
+button{
+    background-color: rgb(209, 196, 174);
+    height: 100%;
+    border-radius: 7px;
+    font-size: 15px;
+}
+.checked{
+    text-decoration: line-through;
+    background-color: #e0e0e0;
+}
+
+footer, h1{
+    text-align: center;
+    padding: 1px;
+    background-color: rgb(204, 74, 31);
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 0%;
+}
+#list{
+    color: black;
+    font-size: 20px;
+    background-color: rgb(255, 243, 194);
+    width: fit-content;
+    border-radius: 20px;
+
+}
